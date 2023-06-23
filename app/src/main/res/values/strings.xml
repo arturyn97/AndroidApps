@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sadav</string>
+    <string name="status">Status:</string>
+    <string name="species">Species:</string>
+    <string name="location">Location:</string>
+    <string name="origin">Origin:</string>
+    <string name="gender">Gender:</string>
+    <string name="type">Type:</string>
+    <string name="episodes">Episodes:</string>
+</resources>
